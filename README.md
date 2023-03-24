@@ -13,9 +13,9 @@ Articles behind a paywall or requiring signup won’t be counted as evidence, bu
 
 # Companies
 
-## Southwest Airlines
+## [Southwest Airlines](https://careers.southwestair.com)
 
-* https://www.inc.com/bill-murphy-jr/after-nearly-50-years-southwest-airlines-just-shared-some-very-good-news.html 
+* https://www.inc.com/bill-murphy-jr/after-nearly-50-years-southwest-airlines-just-shared-some-very-good-news.html #promised #record
 * (paywall) https://www.bloomberg.com/news/articles/2001-10-07/where-layoffs-are-a-last-resort#xj4y7vzkg
 
 # Further Reading
